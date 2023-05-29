@@ -1,6 +1,5 @@
 # AudioNoiseRemoval
 - 사용 언어: MATLAB
-- Github link: 
 - MATLAB 기반으로 만든, Audio Noise Removal application 입니다.
 	- 이 프로그램은 음성파일에서 일정한 진동수를 가진 오디오를 지워줍니다.
 	 - 프로그램에서 사용된 음성 파일들은 source_files/ 폴더에 있습니다.
